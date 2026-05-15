@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-15",
+  "record_count": 236141,
+  "merkle_root": "sha256:f5d0a94fb0bc1100ec7620ec9d0435ac5ac56a45d5a1e02a7055fe76b190db9a",
+  "chain_entry": {
+    "date": "genesis",
+    "merkle_root": "sha256:f5d0a94fb0bc1100ec7620ec9d0435ac5ac56a45d5a1e02a7055fe76b190db9a",
+    "prev_root": "genesis",
+    "anchor_hash": "sha256:224d0d274e8876d205af896c75eb949f0c6ca4e1b20cabcc5c35020f89f535e6",
+    "record_count": 236141
+  }
+}

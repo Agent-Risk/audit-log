@@ -5,8 +5,8 @@
   "chain_entry": {
     "date": "2026-05-15",
     "merkle_root": "sha256:97d50ffc4fd8154fbea3179f95b4b0f5501609506e8b29c0bc366616d285fae1",
-    "prev_root": "sha256:97d50ffc4fd8154fbea3179f95b4b0f5501609506e8b29c0bc366616d285fae1",
-    "anchor_hash": "sha256:d874c1ff6a0aa1407b83332f49783826e75a800eefed0a4d5ebe145f90391190",
+    "prev_root": "sha256:f5d0a94fb0bc1100ec7620ec9d0435ac5ac56a45d5a1e02a7055fe76b190db9a",
+    "anchor_hash": "sha256:640b324b2e77fd263463e2e56f6bf574cf6d8ad20a8d3c1600b0899eb2734d5f",
     "record_count": 8148
   }
 }
