@@ -1,12 +1,12 @@
 {
   "date": "2026-05-15",
-  "record_count": 236141,
-  "merkle_root": "sha256:f5d0a94fb0bc1100ec7620ec9d0435ac5ac56a45d5a1e02a7055fe76b190db9a",
+  "record_count": 885718,
+  "merkle_root": "sha256:03f7899e3835f42715d64437aeba58fb5cb0270b0d1c89af0d431d80e919c6ab",
   "chain_entry": {
     "date": "genesis",
-    "merkle_root": "sha256:f5d0a94fb0bc1100ec7620ec9d0435ac5ac56a45d5a1e02a7055fe76b190db9a",
+    "merkle_root": "sha256:03f7899e3835f42715d64437aeba58fb5cb0270b0d1c89af0d431d80e919c6ab",
     "prev_root": "genesis",
-    "anchor_hash": "sha256:224d0d274e8876d205af896c75eb949f0c6ca4e1b20cabcc5c35020f89f535e6",
-    "record_count": 236141
+    "anchor_hash": "sha256:771648b72b3f1826d4b13410f0d1705ad8f919538965d3f96e5766fd9169b194",
+    "record_count": 885718
   }
 }
