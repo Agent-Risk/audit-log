@@ -8,7 +8,7 @@ agentrisk-audit/
 ├── history.jsonl       ← 每日追加的锚定事件
 ├── snapshots/          ← 完整证明包
 │   └── 2026-05-15/
-│       ├── records.jsonl  ← 全量评分记录
+│       ├── records.jsonl.gz  ← 全量评分记录(gzip压缩)
 │       ├── merkle.root    ← Merkle Root
 │       └── meta.json      ← 快照元数据
 └── SNAPSHOT.md         ← 本文件
@@ -17,7 +17,7 @@ agentrisk-audit/
 ## 验证方法
 
 1. 读取 `manifest.json` 获取当前 top_root
-2. 读取最新 `snapshots/` 目录下的 `records.jsonl`
+2. 读取最新 `snapshots/` 目录下的 `records.jsonl.gz` (需gzip解压)
 3. 对每条记录计算 `SHA256(record_json)` 得到 leaf_hash
 4. 两两配对向上计算 Merkle Root
 5. 对比 `merkle.root` 中的值是否一致
