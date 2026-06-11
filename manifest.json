@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "top_root": "sha256:80eff03dd6a4f21aa98151dea058a945c5c640891ae38f9a166b03e4420eff89",
-  "last_anchor_date": "2026-06-11",
-  "total_anchors": 18,
-  "total_records": 11379768,
-  "updated_at": "2026-06-12T07:53:36.750994"
+  "top_root": "sha256:c75b25747d3575dff57e2783b7b3a6f9e45cb8fa0af12d23ea6ea3ea2e65ffe1",
+  "last_anchor_date": "2026-06-12",
+  "total_anchors": 19,
+  "total_records": 11380019,
+  "updated_at": "2026-06-12T07:54:53.706966"
 }
