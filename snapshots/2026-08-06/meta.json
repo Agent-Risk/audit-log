@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-06",
+  "record_count": 1814462,
+  "merkle_root": "sha256:9b1912670fff83509b3d3809174097e70c70982015d533c9d2db839ec55ba8c1",
+  "chain_entry": {
+    "date": "2026-08-06",
+    "merkle_root": "sha256:9b1912670fff83509b3d3809174097e70c70982015d533c9d2db839ec55ba8c1",
+    "prev_root": "sha256:e24d8eb78aa39c98006747155a7733b24392b8513536ad4992447acf4c67fd70",
+    "anchor_hash": "sha256:01a03ea7167f343952dfac7d71ea66cf0f894d7a4ef3a9071de4d47f74758432",
+    "record_count": 1814462
+  }
+}
