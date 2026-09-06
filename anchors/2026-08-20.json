@@ -1,14 +1,11 @@
 {
+  "anchor_hash": "sha256:83aacd494d1256864bc59c1f1894ad23547a18a4b67d46767f37024c16671601",
   "date": "2026-08-20",
   "merkle_root": "sha256:2ce7055b7602bb198b54dd6f0cd2cbc1d33d517cf4780e6a1dd1966d1fdf45ff",
   "prev_root": "sha256:59a1ce95588e50d7fe181c5404b03a602f86f698448b699ed7996e49947efbee",
   "record_count": 1876875,
-  "anchor_hash": "sha256:83aacd494d1256864bc59c1f1894ad23547a18a4b67d46767f37024c16671601",
   "records": {
-    "file_sha256": "55bd0a5c3a04b32787cc53226c49d0f39c60cd13599d8740dc85bb9fff6ebb4d",
-    "file_bytes": 106170985
-  },
-  "ed25519_signature": "cajKPReHtzhrT7PcHfVszkIlp8bEeT2aaESDjrx1thgeO+3xAX5SVo3SnJwFrF7XbsMvjfcdz7oVqSfPQHPhAA==",
-  "signature_payload": "sha256(55bd0a5c3a04b32787cc53226c49d0f39c60cd13599d8740dc85bb9fff6ebb4d|106170985)",
-  "public_key": "ed25519 /v1/proof/public_key"
+    "file_bytes": 106170985,
+    "file_sha256": "55bd0a5c3a04b32787cc53226c49d0f39c60cd13599d8740dc85bb9fff6ebb4d"
+  }
 }
