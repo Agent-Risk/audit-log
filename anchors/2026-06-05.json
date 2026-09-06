@@ -1,0 +1,11 @@
+{
+  "anchor_hash": "",
+  "date": "2026-06-05",
+  "merkle_root": "13880157ef9c8e42991e62721c10e9318a2a6129706aa8a4c244906aca6d3284",
+  "prev_root": "",
+  "record_count": 1015101,
+  "records": {
+    "file_bytes": 10741078,
+    "file_sha256": "aa67c4012ecd328f76dc7d8cc40657975c7b797c71f468c7a9aa3912dd139116"
+  }
+}

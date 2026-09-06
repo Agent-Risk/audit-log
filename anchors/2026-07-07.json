@@ -1,0 +1,11 @@
+{
+  "anchor_hash": "sha256:ce2c0ab9f216a0f691929916065eaa5c818c28a7ab9dfbfd85c4c741bbce336e",
+  "date": "2026-07-07",
+  "merkle_root": "sha256:392e8783d1eca95c72721af476e87c689887e67074f889ba34e75a989b822d26",
+  "prev_root": "sha256:32d34819e6697744ff57d34273da2505079c6f00e28fc768b2c94b3aad2c3483",
+  "record_count": 1668911,
+  "records": {
+    "file_bytes": 94908344,
+    "file_sha256": "a56cfa605ab6f263714da17f52ed137f3d904a723c14b2325805750b03f2a210"
+  }
+}

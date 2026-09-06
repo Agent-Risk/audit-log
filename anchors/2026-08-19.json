@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-19",
+  "merkle_root": "sha256:59a1ce95588e50d7fe181c5404b03a602f86f698448b699ed7996e49947efbee",
+  "prev_root": "sha256:623b9f80cd9a733d28f5444358af512b4aec01ffac815aa61d02da9f000cb5bc",
+  "record_count": 1872307,
+  "anchor_hash": "sha256:f269e8641519604021fdc289cf0990983e0c2c3460c4e5aa3bd91e20e11bd5de",
+  "records": {
+    "file_sha256": "941a43a033958705d0bfb532780c4e35d9b23b8a3e44969f793bc6580672762b",
+    "file_bytes": 105927175
+  },
+  "ed25519_signature": "puUMpAyiXcNt2S7twzyhxQ2gmzRqW8UnW0wNrVa7r8tFm4DhwP+AKfp9zFm8Wh7NpIkUcEOaFDEJdw73gJT+Bg==",
+  "signature_payload": "sha256(941a43a033958705d0bfb532780c4e35d9b23b8a3e44969f793bc6580672762b|105927175)",
+  "public_key": "ed25519 /v1/proof/public_key"
+}
